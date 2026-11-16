@@ -1,4 +1,4 @@
-# SQLcl MCP over Streamable HTTP (office-laptop test)
+# SQLcl MCP over Streamable HTTP
 
 `sqlcl_http.py` starts Oracle's own SQLcl MCP server (`sql -mcp`, stdio only) once and serves all of its tools
 as Streamable HTTP at `http://127.0.0.1:8770/mcp`. `/health` answers `{"status":"ok"}`.

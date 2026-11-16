@@ -1,4 +1,4 @@
-# Hand-off for deployment (read this before converting to the company sample format)
+# Hand-off for deployment
 
 **What it is:** an MCP server in Python, FastMCP, transport **http** (Streamable HTTP), that serves Oracle's SQLcl MCP
 server to the workflow designer. Read `README.md` for how it works.
